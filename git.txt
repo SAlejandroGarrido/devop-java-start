@@ -2,9 +2,11 @@ $ git branch "nome branch" - adiciona Branch
 
 $ git checkout "nome da branch" te coloca na branch chamada
 
+$ git checktout -b "Nome da branch" cria nova branch e te coloca nela
+
 $ git add "nome do arquivo" coloca um arquivo para commit 
 
-$ git checktout -b "Nome da branch" cria nova branch e te coloca nela
+
 
 
 
